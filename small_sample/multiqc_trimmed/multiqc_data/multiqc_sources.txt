@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	sub1_paired	/home/ayukovaleva_1/small_sample/fastqc_trimmed/sub1_paired.fq.trimmed_fastqc.zip
+FastQC	all_sections	sub1_mate_p	/home/ayukovaleva_1/small_sample/fastqc_trimmed/sub1_mate_p.fq.int_trimmed_fastqc.zip
+FastQC	all_sections	sub2_paired	/home/ayukovaleva_1/small_sample/fastqc_trimmed/sub2_paired.fq.trimmed_fastqc.zip
+FastQC	all_sections	sub2_mate_p	/home/ayukovaleva_1/small_sample/fastqc_trimmed/sub2_mate_p.fq.int_trimmed_fastqc.zip

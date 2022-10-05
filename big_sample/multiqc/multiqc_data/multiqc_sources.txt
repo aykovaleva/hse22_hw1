@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	sub2_mate_p	/home/ayukovaleva_1/fastqc/sub2_mate_p_fastqc.zip
+FastQC	all_sections	sub1_mate_p	/home/ayukovaleva_1/fastqc/sub1_mate_p_fastqc.zip
+FastQC	all_sections	sub1_paired	/home/ayukovaleva_1/fastqc/sub1_paired_fastqc.zip
+FastQC	all_sections	sub2_paired	/home/ayukovaleva_1/fastqc/sub2_paired_fastqc.zip

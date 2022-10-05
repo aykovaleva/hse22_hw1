@@ -1,0 +1,5 @@
+Sample	FastQC_mqc-generalstats-fastqc-percent_duplicates	FastQC_mqc-generalstats-fastqc-percent_gc	FastQC_mqc-generalstats-fastqc-avg_sequence_length	FastQC_mqc-generalstats-fastqc-percent_fails	FastQC_mqc-generalstats-fastqc-total_sequences
+sub1_mate_p	1.6328285724957823	46.0	110.7357059397494	9.090909090909092	570849.0
+sub1_paired	20.595137264464583	46.0	97.39066083834724	0.0	2887968.0
+sub2_mate_p	1.3599922276066962	45.0	105.03207328032457	0.0	570849.0
+sub2_paired	19.92709256691589	46.0	95.96256052698645	0.0	2887968.0
