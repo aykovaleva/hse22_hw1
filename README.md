@@ -64,3 +64,5 @@ mkdir fastqc
 mkdir multiqc
 ls *.fq | xargs -P 4 -tI{} fastqc -o fastqc {}
 exit
+
+#multiqc stats
